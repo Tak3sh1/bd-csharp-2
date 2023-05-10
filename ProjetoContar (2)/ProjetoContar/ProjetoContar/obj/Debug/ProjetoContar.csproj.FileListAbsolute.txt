@@ -1,0 +1,40 @@
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\bin\Debug\BDcontas.mdf
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\bin\Debug\BDcontas_log.ldf
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe.config
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.pdb
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.exe
+C:\Users\user\Downloads\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.pdb
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\BDcontas.mdf
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\BDcontas_log.ldf
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe.config
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.pdb
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmUsuario.resources
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.exe
+C:\Users\user\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.pdb
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.AssemblyReference.cache
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmCliente.resources
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmPrincipal.resources
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.frmUsuario.resources
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.Properties.Resources.resources
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.GenerateResource.cache
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.csproj.CoreCompileInputs.cache
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.exe
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\obj\Debug\ProjetoContar.pdb
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\BDcontas.mdf
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\BDcontas_log.ldf
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe.config
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.exe
+C:\Users\Lab0-00\Downloads\ProjetoContar (2)\ProjetoContar\ProjetoContar\bin\Debug\ProjetoContar.pdb
